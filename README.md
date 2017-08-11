@@ -1,9 +1,10 @@
-****************************
-What is Shogi?
-****************************
 @author Daniel Llerena
 
 @version 0.993
+
+****************************
+What is Shogi?
+****************************
 
 The following is a project for the board game Shogi, commonly known as Japanese chess.
 
@@ -22,6 +23,11 @@ You can also march your pieces to your opponent's side of the board which is con
 of wheter or not you want to promote your piece.
 
 ******************
+Screenshot of The Starting Positions for all pieces as represented when the app is launched
+******************
+![Image](https://github.com/SecretDan1994/Shogi/blob/master/src/images/screenshots/screenshot.png)
+
+******************
 Promotion Rules
 ******************
 1. Pawn promotes to gold general (called a 'tokin' in this case only).
@@ -33,7 +39,11 @@ Promotion Rules
 7. Rook promotes to "dragon king" or just "dragon" for short. The dragon can move as a rook or can move one square in any diagonal direction.
 8. King does not promote.
 
-# Here is a screenshot example of a rook approaching the promotion zone and the promotion occuring after choosing yes:
+# Here is a screenshot example of a rook approaching the promotion zone:
+![Image](https://github.com/SecretDan1994/Shogi/blob/master/src/images/screenshots/Promote%20Rook.png)
+
+# Here is a screenshot of showing the rook's promotion after the player chooses 'yes':
+![Image](https://github.com/SecretDan1994/Shogi/blob/master/src/images/screenshots/Rook%20Promoted.png)
 
 ****************************
 What has been created so far
@@ -55,11 +65,6 @@ Immediate Goals that have yet to be fulfilled
 - Adding visual move paths to let players know where they can move the pieces.
 - Visual showing whose turn it is.
 - Adding a ranking system similar to traditional Shogi
-
-***************
-Here is a Screenshot of the App
-***************
-![Image](https://github.com/SecretDan1994/Shogi/blob/master/src/images/screenshot.png)
 
 ***************
 Acknowledgement
