@@ -5,7 +5,7 @@
 To try this out, clone/download this and run 'ShogiMaster.jar'.
 
 ****************************
-What is Shogi?
+# What is Shogi?
 ****************************
 
 The following is a project for the board game Shogi, commonly known as Japanese chess.
@@ -25,12 +25,12 @@ You can also march your pieces to your opponent's side of the board which is con
 of wheter or not you want to promote your piece.
 
 ******************
-Screenshot of The Starting Positions for all pieces as represented when the app is launched
+# Screenshot of The Starting Positions for all pieces as represented when the app is launched
 ******************
 ![Image](https://github.com/SecretDan1994/Shogi/blob/master/src/images/screenshots/screenshot.png)
 
 ******************
-Promotion Rules
+# Promotion Rules
 ******************
 1. Pawn promotes to gold general (called a 'tokin' in this case only).
 2. Lance promotes to gold general.
@@ -48,7 +48,7 @@ Promotion Rules
 ![Image](https://github.com/SecretDan1994/Shogi/blob/master/src/images/screenshots/Rook%20Promoted.png)
 
 ****************************
-What has been created so far
+# What has been created so far
 ****************************
 - Turn-based two player functionality
 - All pieces are properly placed in their starting positions.
@@ -57,7 +57,7 @@ What has been created so far
 - All piece-promotions and promotions choice correctly work.
 
 ***********************************
-Immediate Goals that have yet to be fulfilled
+# Immediate Goals that have yet to be fulfilled
 ***********************************
 - Sorting out bugs with the dropping piece system.
 - Sorting out general bugs with invalid moves; Could possibly throw an invalid move error when this happens.
@@ -69,7 +69,7 @@ Immediate Goals that have yet to be fulfilled
 - Adding a ranking system similar to traditional Shogi
 
 ***************
-Acknowledgement
+# Acknowledgement
 ***************
 
 I would like to take the time to thank you for viewing the GitHub for this project. Feel free to download the project and try it out.
