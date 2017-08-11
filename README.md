@@ -2,6 +2,8 @@
 
 @version 0.993
 
+To try this out, clone/download this and run 'ShogiMaster.jar'.
+
 ****************************
 What is Shogi?
 ****************************
